@@ -85,6 +85,6 @@ cargo add flate2
 
 ## 📄 License
 
-MIT License © 2025 \[YourName]
+MIT License © 2025 \victor
 
 
