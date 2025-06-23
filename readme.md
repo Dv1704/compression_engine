@@ -87,9 +87,4 @@ cargo add flate2
 
 MIT License © 2025 \[YourName]
 
-```
 
----
-
-Let me know if you want to add a **logo**, **example GIF**, or **badge for crates.io** or GitHub actions!
-```
