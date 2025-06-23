@@ -1,11 +1,11 @@
 ---
 
-````markdown
+
 # 📦 Compression Engine (Rust)
 
 A simple command-line tool written in Rust to compress files using the Gzip format. Built using the [`flate2`](https://docs.rs/flate2/) crate, it provides fast and effective compression for large files.
 
----
+
 
 ## ✨ Features
 
